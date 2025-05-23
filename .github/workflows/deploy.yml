@@ -1,12 +1,3 @@
-jobs:
-  preload:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Dummy preload for upload-artifact
-        uses: actions/upload-artifact@v3
-        with:
-          name: preload
-          path: README.md  # Any small file to satisfy the runner
 name: Deploy Hugo site to Pages
 
 on:
