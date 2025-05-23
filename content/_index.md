@@ -1,3 +1,3 @@
 
-> *“Sample quote”*  
-> Welcome to my personal blog, main page?
+> *“ChatGPT killed quotes”*  
+> Welcome
