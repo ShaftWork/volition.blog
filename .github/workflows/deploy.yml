@@ -7,7 +7,6 @@ jobs:
         with:
           name: preload
           path: README.md  # Any small file to satisfy the runner
-
 name: Deploy Hugo site to Pages
 
 on:
