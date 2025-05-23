@@ -13,8 +13,8 @@ enableRobotsTXT = true
 [params.giscus]
   repo = "ShaftWork/volition.blog"
   repoID = "R_kgDOOu8_UA"
-  category = ""
-  categoryID = ""
+  category = "Announcements"
+  categoryID = "DIC_kwDOOu8_UM4Cqey9"
   mapping = "pathname"
   reactionsEnabled = "1"
   emitMetadata = "0"
