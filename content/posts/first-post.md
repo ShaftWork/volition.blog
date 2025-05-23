@@ -1,6 +1,6 @@
 ---
 title: "Welcome to Volition"
-date "+date: %Y-%m-%d"
+date +date: %Y-%m-%d
 draft: false
 ---
 
