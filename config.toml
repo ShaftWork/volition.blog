@@ -1,0 +1,31 @@
+baseURL = "https://volition.blog/"
+languageCode = "en-us"
+title = "Volition"
+theme = "PaperMod"
+enableRobotsTXT = true
+
+[params]
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+  defaultTheme = "auto"
+
+[params.giscus]
+  repo = "ShaftWork/volition.blog"
+  repoID = ""
+  category = ""
+  categoryID = ""
+  mapping = "pathname"
+  reactionsEnabled = "1"
+  emitMetadata = "0"
+  inputPosition = "bottom"
+  theme = "preferred_color_scheme"
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+
+[[menu.main]]
+  name = "About"
+  url = "/about/"
+  weight = 10
