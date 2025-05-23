@@ -9,6 +9,7 @@ enableRobotsTXT = true
   ShowShareButtons = false
   ShowCodeCopyButtons = true
   defaultTheme = "auto"
+  comments = true
 
 [params.giscus]
   repo = "ShaftWork/volition.blog"
